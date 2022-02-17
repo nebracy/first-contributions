@@ -24,6 +24,7 @@
 -[Ishwarya Rajalakshmi K](https://github.com/ishuu10)
 - [Prathamesh Sawant](https://github.com/Prathamesh0421)
 - [scientia-ac-labore](https://github.com/scientia-ac-labore)
+- [Nicole Bracy](https://github.com/nebracy)
 - [Nickel-yadav] (https://github.com/nickel-yadav)
 - [George Gomes](https://github.com/rody401)
 - [Sarthak Gupta](https://github.com/Sart-Hack)
